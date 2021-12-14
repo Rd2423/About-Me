@@ -4,6 +4,7 @@ I'm a Full Stack Web/App Developer who graduated from the Carleton University Co
 
 ### My Hobbies
 
+-  🧑🏽‍💻
 - 🏀 
 - 🎮 🎮
 - ⛷
